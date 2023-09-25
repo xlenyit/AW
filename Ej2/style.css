@@ -1,0 +1,46 @@
+.rojo{
+    color: red;
+}
+
+.resaltado{
+    background: lightgray;
+}
+
+#tc{
+    font-style: italic;
+    text-align: center;
+    border: solid lightgray;
+    
+}
+img[src$=".png"] {
+    background: black;
+}
+html{
+    font-family: Arial;
+}
+h1{
+    background-color: #b81134;
+    color: #bfbfbf;
+    padding: 30px;
+    text-align: center;
+}
+.link{
+    background-color: black;
+    color: white;
+    padding: 7px;
+    text-decoration: none;
+    
+}
+th{
+    background-color: #bfbfbf;
+    
+}
+.desay{
+    background-color: #ffd602;
+}
+.break{
+    background-color: #dda0dd;
+}
+.comi{
+    background-color: #adff2e;
+}

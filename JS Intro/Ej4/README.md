@@ -1,0 +1,1 @@
+Escribir un código que dado un número muestre por consola si es divisible por 2

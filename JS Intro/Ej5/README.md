@@ -1,0 +1,1 @@
+Escribir un código que dada una frase muestre por consola cuántas veces aparece la letra “a”.

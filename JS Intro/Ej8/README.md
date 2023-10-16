@@ -1,0 +1,1 @@
+Escribir una función “undef” que tenga un único parámetro. La función devuelve un valor booleano que indica si el parámetro pasado es undefined.

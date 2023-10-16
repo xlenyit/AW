@@ -1,0 +1,1 @@
+Escribir una función “isArray” que devuelva un valor booleano que indique si el parámetro de la misma es un array.
